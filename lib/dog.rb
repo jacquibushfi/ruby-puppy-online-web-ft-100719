@@ -15,7 +15,7 @@ class Dog
       puts @@all.flatten
   end
   
-   def self.save
+   def save
      @@all << self
    end
    
