@@ -12,7 +12,7 @@ class Dog
   end
   
   def self.print_all
-      puts @@all.flatten
+      puts @@all
   end
   
    def save
